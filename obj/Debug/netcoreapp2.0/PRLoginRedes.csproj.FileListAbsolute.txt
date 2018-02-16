@@ -1,0 +1,12 @@
+C:\Users\33989106880\backend\PRLoginRedes\bin\Debug\netcoreapp2.0\app.db
+C:\Users\33989106880\backend\PRLoginRedes\bin\Debug\netcoreapp2.0\PRLoginRedes.deps.json
+C:\Users\33989106880\backend\PRLoginRedes\bin\Debug\netcoreapp2.0\PRLoginRedes.runtimeconfig.json
+C:\Users\33989106880\backend\PRLoginRedes\bin\Debug\netcoreapp2.0\PRLoginRedes.runtimeconfig.dev.json
+C:\Users\33989106880\backend\PRLoginRedes\bin\Debug\netcoreapp2.0\PRLoginRedes.dll
+C:\Users\33989106880\backend\PRLoginRedes\bin\Debug\netcoreapp2.0\PRLoginRedes.pdb
+C:\Users\33989106880\backend\PRLoginRedes\obj\Debug\netcoreapp2.0\PRLoginRedes.csproj.CoreCompileInputs.cache
+C:\Users\33989106880\backend\PRLoginRedes\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\33989106880\backend\PRLoginRedes\obj\Debug\netcoreapp2.0\PRLoginRedes.AssemblyInfoInputs.cache
+C:\Users\33989106880\backend\PRLoginRedes\obj\Debug\netcoreapp2.0\PRLoginRedes.AssemblyInfo.cs
+C:\Users\33989106880\backend\PRLoginRedes\obj\Debug\netcoreapp2.0\PRLoginRedes.dll
+C:\Users\33989106880\backend\PRLoginRedes\obj\Debug\netcoreapp2.0\PRLoginRedes.pdb
